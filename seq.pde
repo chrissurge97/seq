@@ -35,7 +35,7 @@ final float Y_MAX = 600;
 final int LEGEND_BASE_X = 20;
 final int LEGEND_BASE_Y = 60;
 final int VIEW_TOGETHER = 0, VIEW_SEPERATE = 1;
-final float VISIBLE_THRESHOLD = 0.3;
+final float VISIBLE_THRESHOLD = 0.1;
 final color redPhaseA = color(180, 33, 38);      // RGB values
 final color yellowPhaseB = color(222, 215, 20);
 final color bluePhaseC = color(36, 78, 198);
